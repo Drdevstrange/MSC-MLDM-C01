@@ -1,0 +1,12 @@
+texttable
+pyswip
+PyILP==0.0.1
+jupyter
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+gymnasium[classic-control,toy-text]
+gymnasium
+git+https://github.com/danyvarghese/PyGol_mldm.git@main
